@@ -1,0 +1,43 @@
+// List
+.c-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(229,231,235);
+    
+  }
+  
+  .c-li {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float:left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  li:hover {
+    background-color: rgb(147, 198, 230);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+//Nav
+//.c-nav {
+//    background-color: $primary-gray;
+//
+//    .c-nav-list {
+//        list-style: none;
+//        display: flex;
+//
+//       .c-nav-list-item{ 
+//            padding: 10px;
+ //           &:hover{
+//                background-color:  $primary-white;
+//                cursor:pointer;
+//            }
+//        }
+//    }
+//
+//}
